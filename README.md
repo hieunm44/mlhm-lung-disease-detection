@@ -26,3 +26,7 @@ This repo is our project "Lung Disease Prediction from X-ray Images" in the cour
    ```
 2. Upload the folder to Google Drive or leave it in your local computer.
 3. Check and run the two files `Lung_Disease_Prediction.ipynb` and `MedViT.ipynb`.
+4. Run demo:
+   ```sh
+   streamlit run demo.py
+   ```
